@@ -1,0 +1,6 @@
+langchain
+streamlit
+dotenv
+langchain-huggingface
+# transformers
+# huggingface_hub
